@@ -1,0 +1,1 @@
+{"name":"Local: p33_G_Palindrome_Array","url":"e:\\My Conde Practice\\p33_G_Palindrome_Array.c","tests":[{"id":1760624464997,"input":"5\n1 3 2 3 1\n","output":"YES\n"},{"id":1760624479170,"input":"4\n1 2 3 4\n","output":"NO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Conde Practice\\p33_G_Palindrome_Array.c","group":"local","local":true}

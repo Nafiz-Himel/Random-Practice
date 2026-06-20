@@ -1,0 +1,16 @@
+// Take a number and check if it is divisible by 5 or 7
+#include<stdio.h>
+int main()
+{
+    int a;
+    scanf("%d", &a);
+    if(a%5==0 || a%7==0)
+    {
+        printf("Yes");
+    }
+    else
+    {
+        printf("No");
+    }
+    return 0;
+}

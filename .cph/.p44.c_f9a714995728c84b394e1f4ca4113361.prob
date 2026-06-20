@@ -1,0 +1,1 @@
+{"name":"Local: p44","url":"e:\\My Code Practice\\p44.c","tests":[{"id":1761814590954,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Code Practice\\p44.c","group":"local","local":true}

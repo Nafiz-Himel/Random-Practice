@@ -1,0 +1,1 @@
+{"name":"Local: p95-Max-Adjacent-Sum","url":"e:\\My Code Practice\\p95-Max-Adjacent-Sum.cpp","tests":[{"id":1774626461453,"input":"7\n4 8 2 5 1 7 5 ","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Code Practice\\p95-Max-Adjacent-Sum.cpp","group":"local","local":true}
